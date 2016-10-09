@@ -1,0 +1,9 @@
+*.o
+*.hi
+*.a
+*.ou*.o
+*.hi
+*.a
+*.out
+.DS_Store
+build/
